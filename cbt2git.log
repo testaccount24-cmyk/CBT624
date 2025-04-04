@@ -1,0 +1,12 @@
+2025-04-04 12:53:46.754842 - Received CBT.V508.FILE624.PDS from FILE624.XMI 
+2025-04-04 12:53:46.755604 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:53:46.755753 - Found $DOC.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$DOC
+2025-04-04 12:53:46.755892 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE624.PDS, moved to PDS/$LOADLIB.xmi
+2025-04-04 12:53:46.759884 - Received SBGOLOB.TSOUCB.LOAD from $LOADLIB.xmi 
+2025-04-04 12:53:46.760223 - Found TSOUCB.bin (application/octet-stream) in SBGOLOB.TSOUCB.LOAD, moved to $LOADLIB/TSOUCB
+2025-04-04 12:53:46.760533 - Found $README.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$README
+2025-04-04 12:53:46.760660 - Found @FILE624.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/@FILE624
+2025-04-04 12:53:46.760776 - Found ASMUCB.jcl (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/ASMUCB
+2025-04-04 12:53:46.760917 - Found FIND.rexx (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/FIND
+2025-04-04 12:53:46.761064 - Found TSOUCB.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/TSOUCB
+2025-04-04 12:53:46.761178 - Found TSOUCB$.jcl (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/TSOUCB$
